@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Donate – Save Yamuna</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f0f9f9; padding: 20px; }
+    h1 { color: #0077b6; }
+    .container { max-width: 600px; margin: auto; text-align: center; }
+    .upi-id { font-size: 18px; margin-top: 10px; }
+    img { margin-top: 20px; width: 250px; }
+    a { display: block; margin-top: 20px; text-decoration: none; color: #0077b6; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Support Our Yamuna River Campaign</h1>
+    <p>Your donation helps us organize cleanups, awareness drives, and student activism to save the Yamuna.</p>
+    <div class="upi-id">
+      <strong>UPI ID:</strong> kumarnirnay11@fam
+    </div>
+    <img src="upi_qr.png" alt="UPI QR Code">
+    <a href="index.html">← Back to Home</a>
+  </div>
+</body>
+</html>
